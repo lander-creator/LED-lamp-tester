@@ -1,5 +1,8 @@
 # LED-lamp-tester
 
+![LED tester foto](https://user-images.githubusercontent.com/61006702/76534560-f0ae5a00-6479-11ea-9dd1-58c75df989b1.jpg)
+
+
 Met dit esp32 project meten we met behulp van 2 digitale sensoren (DH1750 en BMP280) de lichtsterkte (lux) en de temperatuur(°C).
 De sensoren zijn aangesloten via I2C aan de esp32.
 De waarden van de senoren wordt ook weergegeven op uw smartphone via de Blynk app.
