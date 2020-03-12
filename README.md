@@ -39,4 +39,6 @@ En als laatste lus je door van BH1750 naar BMP280
 | SDA  | SDA  |
 
 # Aansluitschema:
+![schema](https://user-images.githubusercontent.com/61006702/76535731-9f06cf00-647b-11ea-8df0-df58f1cd3fc5.png)
+
 
