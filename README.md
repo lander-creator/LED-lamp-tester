@@ -39,4 +39,4 @@ En als laatste lus je door van BH1750 naar BMP280
 | SDA  | SDA  |
 
 # Aansluitschema:
-[LED tester schema.pdf](https://github.com/lander-creator/LED-lamp-tester/files/4324876/LED.tester.schema.pdf)
+
