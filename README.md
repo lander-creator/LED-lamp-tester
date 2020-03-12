@@ -6,11 +6,11 @@
 Met dit esp32 project meten we met behulp van 2 digitale sensoren (DH1750 en BMP280) de lichtsterkte (lux) en de temperatuur(°C).
 De sensoren zijn aangesloten via I2C aan de esp32.
 Ik heb gekozen voor de esp32 omdat deze al een wifi module heeft.
-De waarden van de senoren wordt ook weergegeven op uw smartphone via de Blynk app.
+# De waarden van de senoren wordt ook weergegeven op uw smartphone via de Blynk app.
 
 ![Screenshot_20200312-154120_Blynk](https://user-images.githubusercontent.com/61006702/76534837-513d9700-647a-11ea-87b2-c2f6803c4f80.jpg)
 
-Lijstje met je gebruikte pinnen:
+# Lijstje met je gebruikte pinnen:
 
 Je begint van de esp32 naar Oled 
 | esp32 pin  | Oled |   
