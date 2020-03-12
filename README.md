@@ -31,4 +31,3 @@ En als laatste lus je door van BH1750 naar BMP280
 | SCL  | SCL  |
 | SDA  | SDA  |
 
-[embed]http://example.com/file.pdf[/embed]
