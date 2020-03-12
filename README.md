@@ -31,3 +31,4 @@ En als laatste lus je door van BH1750 naar BMP280
 | SCL  | SCL  |
 | SDA  | SDA  |
 
+!{github-small}(https://github.com/lander-creator/LED-lamp-tester/blob/master/LED%20tester%20foto.jpg)
